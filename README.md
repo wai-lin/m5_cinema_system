@@ -6,25 +6,25 @@ A comprehensive management system for cinemas that enables ticket sales, invento
 
 ## Type of Users
 
-- Ticket buyers (Clients)
-- Ticket sellers (Sellers)
-- Management (Admin)
+- Customers
+- Staffs
+- Admins
 
-### Clients
+### Customers
 
-Clients can buy movie tickets via:
+Customers can buy movie tickets via:
 - Web App
 - Mobile App
 - Kiosk Machines
 
-### Sellers
+### Staffs
 
-Sellers can sell tickets via:
+Staffs can sell tickets via:
 - POS Machines
 
-### Admin
+### Admins
 
-Can manage cinemas, view reports via:
+Admins can manage cinemas, view reports via:
 - Web Dashboard
 
 ---
