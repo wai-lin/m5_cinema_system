@@ -30,3 +30,4 @@ Admins can manage cinemas, view reports via:
 ---
 
 
+
