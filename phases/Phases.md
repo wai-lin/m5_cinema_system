@@ -4,10 +4,9 @@
 
 - Goal: ship to direct system users
 - Channels:
-  - Kiosk Machines
   - POS Machines
   - Admin Web Portal.
-- New features and improvements:
+- New features / improvements:
   - improve seat locking
   - payment/reversal handling
   - reporting tuned for ops
@@ -24,13 +23,14 @@ Diagram:
 - Channels:
   - Mobile Apps (iOS/Android)
   - Web Application.
-- New features and improvements:
+  - Kiosk Machines
+- New features / improvements:
   - scale Public Gateway
   - introduce promo/discount service
   - refine ticket delivery (QR/email/SMS/etc)
   - improve concurrency controls for higher traffic
 - Planning:
-  - launch web first, then mobile (after payment success/latency and seat-lock contention are healthy)
+  - launch in order of kiosk, web, then mobile (after payment and seat-lock implementations are healthy)
   - prioritize features based on checkout completion, drop-off, and payment failure rates.
 
 Diagram:
